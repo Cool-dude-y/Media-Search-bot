@@ -28,12 +28,12 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 START_MSG = """
 **Hi, I'm Movie/Series Search bot.** 🎇
 
-Here you can search 🔍 Movies/Series in inline mode. Just press following buttons and start searching.
+Here you can search 🔍 Movies/Series in inline mode. Just press following buttons and start searching.Till Now The Bot Can Only Be Used By Admins.
 
 Request Movies/Add Movies :
 @MoviesRequestHD .
 
-Father 🎅 : Kya karoge naam janke ?
+Father 🎅 : [Team MoviesRequestHd](https://telegra.ph/𝓓𝓪𝔂𝓪𝓶𝓩𝓪𝓲𝓭𝓲-01-04)
 """
 
 SHARE_BUTTON_TEXT = 'Checkout {username} for searching files'
